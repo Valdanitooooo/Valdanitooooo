@@ -1,8 +1,8 @@
 <h5 align="center">:eyes:</h5>
 <p align="center"><img src="https://profile-counter.glitch.me/{Valdanitooooo}/count.svg" alt="Valdanito :: Visitor's Count" /></p>
 
-![Valdanito's github stats](https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=radical&show_icons=true&&count_private=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=radical&layout=compact)
+![Valdanito's github stats](https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=radical&layout=compact&hide_border=true)
 
 <!--
 **Valdanitooooo/Valdanitooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
