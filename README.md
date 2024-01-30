@@ -1,87 +1,649 @@
-<div align="center">
- <a class="link" href="
-https://cdn.jsdelivr.net/gh/Valdanitooooo/Valdanitooooo/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
- </a>
+<style>
+    ul {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+        text-align: center;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: none;
+    }
+
+    td {
+        text-align: center;
+        width: 96px;
+        white-space: nowrap;
+    }
+
+    td img {
+        width: 48px;
+        height: 48px;
+    }
+</style>
+
+<div>
+    <h2 style="text-align: center;"> Hi there 👋 I'm Valdanito 👨‍💻 </h2>
 </div>
-<ul>
-    <li>
-        <a href="https://github.com/Valdanitooooo" target="_blank">
-            <svg height="48" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="48"
-                data-view-component="true" class="octicon octicon-mark-github v-align-middle color-fg-default">
-                <path
-                    d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z">
-                </path>
-            </svg>
-            <span class="icon-name">Profile</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://github.com/Valdanitooooo/knowledge-hub/discussions" target="_blank">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="48" height="48" version="1.1"
-                aria-hidden="true">
-                <g>
-                    <path
-                        d="M28 1c1.654 0 3 1.346 3 3v24c0 1.654-1.346 3-3 3H4c-1.654 0-3-1.346-3-3V4c0-1.654 1.346-3 3-3h24m0-1H4C1.8 0 0 1.8 0 4v24c0 2.2 1.8 4 4 4h24c2.2 0 4-1.8 4-4V4c0-2.2-1.8-4-4-4z">
-                    </path>
-                    <path
-                        d="M19.613 25.958h-5.309s.007-1.575 0-2.656c-3.633.782-4.647-1.992-4.647-1.992-.664-1.328-1.328-1.992-1.328-1.992-1.328-.789 0-.664 0-.664 1.328 0 1.992 1.328 1.992 1.328 1.165 1.978 3.238 1.66 3.983 1.328 0-.664.291-1.668.664-1.992-2.9-.327-5.314-1.992-5.314-5.311s.667-3.983 1.33-4.647c-.134-.327-.69-1.537.021-3.319 0 0 1.305 0 2.632 1.992.658-.658 2.656-.664 3.32-.664.663 0 2.661.006 3.318.664 1.328-1.992 2.636-1.992 2.636-1.992.71 1.783.155 2.992.02 3.319.664.664 1.328 1.328 1.328 4.647s-2.411 4.984-5.311 5.311c.374.324.664 1.467.664 1.992l.001 4.648z">
-                    </path>
-                </g>
-            </svg>
-            <span class="icon-name">Blog</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://valdanito.cn/gifootball/" target="_blank">
-            <svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                width="48" height="48">
-                <path
-                    d="M524.8 70.4L576 38.4c-19.2 0-32-6.4-51.2-6.4h-51.2l51.2 38.4zM147.2 358.4l134.4 51.2 217.6-147.2 6.4-147.2L409.6 44.8c-121.6 25.6-230.4 102.4-300.8 204.8l38.4 108.8zM518.4 300.8L313.6 441.6 384 684.8l249.6 6.4 83.2-236.8zM544 115.2v147.2l204.8 153.6 140.8-44.8 38.4-102.4c-64-108.8-166.4-185.6-288-224L544 115.2zM96 364.8l-19.2-57.6c-12.8 25.6-25.6 57.6-32 89.6l51.2-32zM953.6 403.2l-6.4-44.8-12.8 32zM819.2 876.8h-64l-19.2 57.6c32-12.8 57.6-32 83.2-57.6zM902.4 422.4l-134.4 38.4-89.6 249.6 83.2 121.6h108.8c76.8-83.2 121.6-192 121.6-307.2v-32l-89.6-70.4zM249.6 812.8L339.2 704 262.4 454.4l-140.8-51.2-89.6 64v38.4c-6.4 115.2 38.4 224 102.4 313.6l115.2-6.4zM179.2 857.6c25.6 25.6 51.2 44.8 76.8 57.6l-19.2-57.6h-57.6zM716.8 851.2L640 742.4l-268.8-6.4-89.6 115.2 38.4 102.4c57.6 25.6 115.2 38.4 179.2 38.4 64 0 121.6-6.4 179.2-32l38.4-108.8z"
-                    fill="#000000"></path>
-            </svg>
-            <span class="icon-name">Gifootball</span>
-        </a>
-    </li>
-    <li>
-        <a href="https://space.bilibili.com/662844951" target="_blank">
-            <svg width="48" height="48" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                fill="#000000">
-                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-                <g id="SVGRepo_iconCarrier">
-                    <g>
-                        <path fill="none" d="M0 0h24v24H0z"></path>
-                        <path
-                            d="M18.223 3.086a1.25 1.25 0 0 1 0 1.768L17.08 5.996h1.17A3.75 3.75 0 0 1 22 9.747v7.5a3.75 3.75 0 0 1-3.75 3.75H5.75A3.75 3.75 0 0 1 2 17.247v-7.5a3.75 3.75 0 0 1 3.75-3.75h1.166L5.775 4.855a1.25 1.25 0 1 1 1.767-1.768l2.652 2.652c.079.079.145.165.198.257h3.213c.053-.092.12-.18.199-.258l2.651-2.652a1.25 1.25 0 0 1 1.768 0zm.027 5.42H5.75a1.25 1.25 0 0 0-1.247 1.157l-.003.094v7.5c0 .659.51 1.199 1.157 1.246l.093.004h12.5a1.25 1.25 0 0 0 1.247-1.157l.003-.093v-7.5c0-.69-.56-1.25-1.25-1.25zm-10 2.5c.69 0 1.25.56 1.25 1.25v1.25a1.25 1.25 0 1 1-2.5 0v-1.25c0-.69.56-1.25 1.25-1.25zm7.5 0c.69 0 1.25.56 1.25 1.25v1.25a1.25 1.25 0 1 1-2.5 0v-1.25c0-.69.56-1.25 1.25-1.25z">
-                        </path>
-                    </g>
-                </g>
-            </svg>
-            <span class="icon-name">Bilibili</span>
-        </a>
-    </li>
-</ul>
-
-<h5 align="center">:eyes:</h5>
-<p align="center"><img src="https://profile-counter.glitch.me/{Valdanitooooo}/count.svg" alt="Valdanito :: Visitor's Count" /></p>
+<div style="text-align: center; text-decoration: center;">
+    <ul>
+        <li>
+            <a href="https://github.com/Valdanitooooo" target="_blank">
+                <span class="icon-name">Profile</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/Valdanitooooo/knowledge-hub/discussions" target="_blank">
+                <span class="icon-name">Blog</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://valdanito.cn/gifootball/" target="_blank">
+                <span class="icon-name">Gifootball</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://space.bilibili.com/662844951" target="_blank">
+                <span class="icon-name">Bilibili</span>
+            </a>
+        </li>
+    </ul>
+</div>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=transparent&layout=compact&hide_border=true&bg_color=00000000"/></a> |
+<h2>Stats and Activity</h2>
+<h3 style="text-align: center;">👀</h3>
+<div style="text-align: center;"><img src="https://profile-counter.glitch.me/{Valdanitooooo}/count.svg" alt="Valdanito :: Visitor's Count" /></div>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=transparent&layout=compact&hide_border=true&bg_color=00000000"/></a> |
 | ------------- | ------------- |
 
+<h2>Tools and technologies that I have worked with and am interested in</h2>
 
-<!--
-**Valdanitooooo/Valdanitooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🏷️ GitHub Topics</h3>
 
-Here are some ideas to get you started:
+[#llmops](https://github.com/topics/llmops)
+[#cicd](https://github.com/topics/cicd)
+[#devops](https://github.com/topics/devops)
+[#graph-algorithms](https://github.com/topics/graph-algorithms)
+[#analytics](https://github.com/topics/analytics)
+[#vim](https://github.com/topics/vim)
+[#tui](https://github.com/topics/tui)
+[#knowledge-graph](https://github.com/topics/knowledge-graph)
+[#data-science](https://github.com/topics/data-science)
+[#graph](https://github.com/topics/graph)
+[#llm](https://github.com/topics/llm)
+[#algorithm](https://github.com/topics/algorithm)
+[#awesome](https://github.com/topics/awesome)
+[#football](https://github.com/topics/football)
+[#graph-database](https://github.com/topics/graph-database)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>👨‍💻 Programming Languages, Markup Languages and Frameworks</h3>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.java.com/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/java-icon.svg" />
+                <br>Java
+            </a>
+        </td>
+        <td>
+            <a href="https://www.javascript.com/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=js" />
+                <br>JavaScript
+            </a>
+        </td>
+        <td>
+            <a href="https://www.python.org/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" />
+                <br>Python
+            </a>
+        </td>
+        <td>
+            <a href="https://www.r-project.org/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=r" />
+                <br>R
+            </a>
+        </td>
+        <td>
+            <a href="https://www.lua.org/" target="_blank">
+                <img src="https://www.lua.org/images/lua30.gif" />
+                <br>Lua
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/golang/go" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=go" />
+                <br>go
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3.org/TR/rdf-schema/" target="_blank">
+                <img src="https://raw.githubusercontent.com/cygri/rdf-logos/master/svg/rdf.svg" />
+                <br>RDF
+            </a>
+        </td>
+        <td>
+            <a href="https://graphql.org/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/graphql-icon.svg" />
+                <br>GraphQL
+            </a>
+        </td>
+        <td>
+            <a href="https://www.gnu.org/software/bash/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=bash" />
+                <br>Bash
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://spring.io/" target="_blank">
+                <img src="https://spring.io/img/spring.svg" />
+                <br>Spring Ecosystem 
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/jhipster/generator-jhipster" target="_blank">
+                <img src="https://www.jhipster.tech/images/logo/logo-jhipster.svg" />
+                <br>JHipster
+            </a>
+        </td>
+        <td>
+            <a href="https://hibernate.org/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=hibernate" />
+                <br>Hibernate
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/apache/spark" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/apache_spark_logo.svg" />
+                <br>Spark
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/apache/jena" target="_blank">
+                <img src="https://raw.githubusercontent.com/apache/jena-site/main/static/images/jena-logo-icon.svg" />
+                <br>Jena
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/apache/airflow" target="_blank">
+                <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" />
+                <br>Airflow
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/nodejs/node" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=nodejs" />
+                <br>Node.js
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/node-red/node-red" target="_blank">
+                <img src="https://nodered.org/about/resources/media/node-red-icon.svg" />
+                <br>Node-RED
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/rstudio/shiny" target="_blank">
+                <img
+                    src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/shiny-icon.png" />
+                <br>Shiny
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/tiangolo/fastapi" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=fastapi" />
+                <br>FastAPI
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/gradio-app/gradio" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/gradio.svg" />
+                <br>Gradio
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/lm-sys/FastChat" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/vicuna_logo.jpeg" />
+                <br>FastChat
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/langchain-ai/langchain" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/langchain.svg" />
+                <br>LangChain
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/run-llama/llama_index" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/llamaindex.png" />
+                <br>LlamaIndex
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/pytorch/pytorch" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=pytorch" />
+                <br>PyTorch
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/huggingface/transformers" target="_blank">
+                <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
+                <br>Transformers
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/microsoft/DeepSpeed" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/deepspeed.jpg" />
+                <br>DeepSpeed
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h3>⛓️ Middlewares</h3>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.nginx.com/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/nginx-icon.svg" />
+                <br>Nginx
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/openresty/openresty" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/openresty.svg" />
+                <br>OpenResty
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/keycloak/keycloak" target="_blank">
+                <img src="https://www.keycloak.org/resources/images/icon.svg" />
+                <br>Keycloak
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/hashicorp/consul" target="_blank">
+                <img src="https://raw.githubusercontent.com/hashicorp/consul/main/website/public/img/logo.svg" />
+                <br>Consul
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/elastic/elasticsearch" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=elasticsearch" />
+                <br>Elasticsearch
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/redis/redis" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=redis" />
+                <br>Redis
+            </a>
+        </td>
+        <td>
+            <a href="https://kafka.apache.org/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=kafka" />
+                <br>Kafka
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/rabbitmq/rabbitmq-server" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=rabbitmq" />
+                <br>RabbitMQ
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/alibaba/canal" target="_blank">
+                <img src="https://raw.githubusercontent.com/alibaba/canal/master/logo.png" />
+                <br>Canal
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h3>🗄️ Databases</h3>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.mysql.com/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+                <br>MySQL
+            </a>
+        </td>
+        <td>
+            <a href="https://www.postgresql.org/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=postgres" />
+                <br>PostgreSQL
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/mongodb/mongo" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/mongodb.svg" />
+                <br>MongoDB
+            </a>
+        </td>
+        <td>
+            <a href="https://www.sqlite.org/index.html" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=sqlite" />
+                <br>SQLite
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ClickHouse/ClickHouse" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/clickhouse.svg" />
+                <br>ClickHouse
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/neo4j/neo4j" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/neo4j-icon.svg" />
+                <br>Neo4j
+            </a>
+        </td>
+        <td>
+            <a href="https://www.tigergraph.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/tigergraph.png" />
+                <br>TigerGraph
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/dgraph-io/dgraph" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/dgraphio-icon.svg" />
+                <br>Dgraph
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/vesoft-inc/nebula" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/nebulagraph.png" />
+                <br>NebulaGraph
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h3>⚙️ DevOps Tools</h3>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.docker.com/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/docker-icon.svg" />
+                <br>Docker
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/kubernetes/kubernetes" target="_blank">
+                <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" />
+                <br>Kubernetes
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/helm/helm" target="_blank">
+                <img src="https://helm.sh/img/helm.svg" />
+                <br>Helm
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/apache/maven" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=maven" />
+                <br>Maven
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/gradle/gradle" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=gradle" />
+                <br>Gradle
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/nvm-sh/nvm" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/nvm-logo.png" />
+                <br>nvm
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/conda/conda" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=anaconda" />
+                <br>Conda
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" />
+                <br>Github
+            </a>
+        </td>
+        <td>
+            <a href="https://gitlab.com/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=gitlab" />
+                <br>GitLab
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/jenkinsci/jenkins" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=jenkins" />
+                <br>Jenkins
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/features/actions" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=githubactions" />
+                <br>GitHub Actions
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/SonarSource/sonarqube" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/sonarqube.svg" />
+                <br>SonarQube
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/jaegertracing/jaeger" target="_blank">
+                <img src="https://www.jaegertracing.io/img/jaeger-vector.svg" />
+                <br>Jaeger
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/minio/minio" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/minio-icon.png" />
+                <br>MinIO
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/prometheus/prometheus" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=prometheus" />
+                <br>Prometheus
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/grafana/grafana" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=grafana" />
+                <br>Grafana
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/elastic/logstash" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/elasticco_logstash-icon.svg" />
+                <br>Logstash
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/apache/jmeter" target="_blank">
+                <img src="https://jmeter.apache.org/images/jmeter_square.svg" />
+                <br>JMeter
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://aws.amazon.com/" target="_blank">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" />
+                <br>AWS
+            </a>
+        </td>
+        <td>
+            <a href="https://cn.aliyun.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/aliyun.png" />
+                <br>Alibaba Cloud
+            </a>
+        </td>
+        <td>
+            <a href="https://azure.microsoft.com/" target="_blank">
+                <img src="https://skillicons.dev/icons?theme=light&i=azure" />
+                <br>Azure
+            </a>
+        </td>
+        <td>
+            <a href="https://www.atlassian.com/software/jira" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/jira-icon.png" />
+                <br>Jira
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/discourse/discourse" target="_blank">
+                <img src="https://raw.githubusercontent.com/discourse/discourse/main/public/images/favicons/discourse.png" />
+                <br>Discourse
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/zulip/zulip" target="_blank">
+                <img src="https://raw.githubusercontent.com/zulip/zulip/main/static/images/logo/zulip-icon-circle.svg" />
+                <br>Zulip
+            </a>
+        </td>
+    </tr>
+</table>
+
+<h3>💻 Software and Tools</h3>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/vim/vim" target="_blank">
+                <img src="https://www.vim.org/images/vimlogo.svg" />
+                <br>Vim
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/microsoft/vscode" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/vscode.svg" />
+                <br>VSCode
+            </a>
+        </td>
+        <td>
+            <a href="https://www.jetbrains.com/idea/" target="_blank">
+                <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" />
+                <br>IntelliJ IDEA
+            </a>
+        </td>
+        <td>
+            <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+                <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" />
+                <br>PyCharm
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank">
+                <img src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/ohmyzsh.png" />
+                <br>Oh My Zsh
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/derailed/k9s" target="_blank">
+                <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_helm.png" />
+                <br>k9s
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/OlyaB/CyanTheme" target="_blank">
+                <img src="https://raw.githubusercontent.com/OlyaB/CyanTheme/master/resources/META-INF/pluginIcon.svg" />
+                <br>Cyan
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/axel-download-accelerator/axel" target="_blank">
+                <img src="https://avatars.githubusercontent.com/u/31333481?s=48&v=4" />
+                <br>axel
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/firecamp-dev/firecamp" target="_blank">
+                <img src="https://raw.githubusercontent.com/firecamp-dev/firecamp/main/.github/logo.svg" />
+                <br>Firecamp
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/excalidraw/excalidraw" target="_blank">
+                <img src="https://raw.githubusercontent.com/excalidraw/excalidraw/master/public/favicon.svg" />
+                <br>Excalidraw
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/jgraph/drawio" target="_blank">
+                <img src="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/images/drawlogo48.png" />
+                <br>draw.io
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/mermaid-js/mermaid" target="_blank">
+                <img src="https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" />
+                <br>Mermaid
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/Tampermonkey/tampermonkey" target="_blank">
+                <img src="https://raw.githubusercontent.com/Tampermonkey/tampermonkey/master/images/icon48.png" />
+                <br>Tampermonkey
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/asciinema/asciinema" target="_blank">
+                <img src="https://raw.githubusercontent.com/asciinema/asciinema.github.io/main/docs/assets/logo.svg" />
+                <br>Asciinema
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/phw/peek" target="_blank">
+                <img src="https://raw.githubusercontent.com/phw/peek/main/data/icons/com.uploadedlobster.peek.svg" />
+                <br>Peek
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/wulkano/Kap" target="_blank">
+                <img src="https://raw.githubusercontent.com/wulkano/Kap/main/renderer/public/static/kap-icon.png" />
+                <br>Kap
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/obsproject/obs-studio" target="_blank">
+                <img src="https://obsproject.com/assets/images/new_icon_small-r.png" />
+                <br>OBS
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/jitsi/jitsi-meet" target="_blank">
+                <img src="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/static/pwa/icons/icon192.png" />
+                <br>Jitsi Meet
+            </a>
+        </td>
+    </tr>
+</table>
