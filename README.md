@@ -75,7 +75,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a>|
 | ------------- | ------------- |
 
-
 <h2>Tools and technologies that I have worked with and am interested in</h2>
 
 <h3>🏷️ GitHub Topics</h3>
@@ -537,117 +536,9 @@
 </table>
 
 <h3>💻 Software and Tools</h3>
-<table>
-    <tr>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/vim/vim" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://www.vim.org/images/vimlogo.svg" />
-                <div style="text-align: center; white-space: nowrap;">Vim</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/microsoft/vscode" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/vscode.svg" />
-                <div style="text-align: center; white-space: nowrap;">VSCode</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://www.jetbrains.com/idea/" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" />
-                <div style="text-align: center; white-space: nowrap;">IntelliJ IDEA</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://www.jetbrains.com/pycharm/" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" />
-                <div style="text-align: center; white-space: nowrap;">PyCharm</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/ohmyzsh/ohmyzsh" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/ohmyzsh.png" />
-                <div style="text-align: center; white-space: nowrap;">Oh My Zsh</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/derailed/k9s" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_helm.png" />
-                <div style="text-align: center; white-space: nowrap;">k9s</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/OlyaB/CyanTheme" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/OlyaB/CyanTheme/master/resources/META-INF/pluginIcon.svg" />
-                <div style="text-align: center; white-space: nowrap;">Cyan</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/axel-download-accelerator/axel" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://avatars.githubusercontent.com/u/31333481?s=48&v=4" />
-                <div style="text-align: center; white-space: nowrap;">axel</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/firecamp-dev/firecamp" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/firecamp-dev/firecamp/main/.github/logo.svg" />
-                <div style="text-align: center; white-space: nowrap;">Firecamp</div>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/excalidraw/excalidraw" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/excalidraw/excalidraw/master/public/favicon.svg" />
-                <div style="text-align: center; white-space: nowrap;">Excalidraw</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/jgraph/drawio" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/images/drawlogo48.png" />
-                <div style="text-align: center; white-space: nowrap;">draw.io</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/mermaid-js/mermaid" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" />
-                <div style="text-align: center; white-space: nowrap;">Mermaid</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/Tampermonkey/tampermonkey" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Tampermonkey/tampermonkey/master/images/icon48.png" />
-                <div style="text-align: center; white-space: nowrap;">Tampermonkey</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/asciinema/asciinema" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/asciinema/asciinema.github.io/main/docs/assets/logo.svg" />
-                <div style="text-align: center; white-space: nowrap;">Asciinema</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/phw/peek" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/phw/peek/main/data/icons/com.uploadedlobster.peek.svg" />
-                <div style="text-align: center; white-space: nowrap;">Peek</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/wulkano/Kap" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/wulkano/Kap/main/renderer/public/static/kap-icon.png" />
-                <div style="text-align: center; white-space: nowrap;">Kap</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/obsproject/obs-studio" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://obsproject.com/assets/images/new_icon_small-r.png" />
-                <div style="text-align: center; white-space: nowrap;">OBS</div>
-            </a>
-        </td>
-        <td style="width: 96px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center;" text-align: center;" href="https://github.com/jitsi/jitsi-meet" target="_blank">
-                <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/static/pwa/icons/icon192.png" />
-                <div style="text-align: center; white-space: nowrap;">Jitsi Meet</div>
-            </a>
-        </td>
-    </tr>
-</table>
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|<a href="https://github.com/vim/vim" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://www.vim.org/images/vimlogo.svg" /> <div style="text-align: center; white-space: nowrap;">Vim</div></a> | <a href="https://github.com/microsoft/vscode" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/vscode.svg" /> <div style="text-align: center; white-space: nowrap;">VSCode</div></a> | <a href="https://www.jetbrains.com/idea/" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" /> <div style="text-align: center; white-space: nowrap;">IntelliJ IDEA</div></a> | <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" /> <div style="text-align: center; white-space: nowrap;">PyCharm</div></a> | <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/ohmyzsh.png" /> <div style="text-align: center; white-space: nowrap;">Oh My Zsh</div></a> | <a href="https://github.com/derailed/k9s" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s_helm.png" /> <div style="text-align: center; white-space: nowrap;">k9s</div></a> | <a href="https://github.com/OlyaB/CyanTheme" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/OlyaB/CyanTheme/master/resources/META-INF/pluginIcon.svg" /> <div style="text-align: center; white-space: nowrap;">Cyan</div></a> | <a href="https://github.com/axel-download-accelerator/axel" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://avatars.githubusercontent.com/u/31333481?s=48&v=4" /> <div style="text-align: center; white-space: nowrap;">axel</div></a> | <a href="https://github.com/firecamp-dev/firecamp" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/firecamp-dev/firecamp/main/.github/logo.svg" /> <div style="text-align: center; white-space: nowrap;">Firecamp</div></a>|
+|<a href="https://github.com/excalidraw/excalidraw" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/excalidraw/excalidraw/master/public/favicon.svg" /> <div style="text-align: center; white-space: nowrap;">Excalidraw</div></a> | <a href="https://github.com/jgraph/drawio" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/images/drawlogo48.png" /> <div style="text-align: center; white-space: nowrap;">draw.io</div></a> | <a href="https://github.com/mermaid-js/mermaid" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" /> <div style="text-align: center; white-space: nowrap;">Mermaid</div></a> | <a href="https://github.com/Tampermonkey/tampermonkey" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Tampermonkey/tampermonkey/master/images/icon48.png" /> <div style="text-align: center; white-space: nowrap;">Tampermonkey</div></a> | <a href="https://github.com/asciinema/asciinema" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/asciinema/asciinema.github.io/main/docs/assets/logo.svg" /> <div style="text-align: center; white-space: nowrap;">Asciinema</div></a> | <a href="https://github.com/phw/peek" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/phw/peek/main/data/icons/com.uploadedlobster.peek.svg" /> <div style="text-align: center; white-space: nowrap;">Peek</div></a> | <a href="https://github.com/wulkano/Kap" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/wulkano/Kap/main/renderer/public/static/kap-icon.png" /> <div style="text-align: center; white-space: nowrap;">Kap</div></a> | <a href="https://github.com/obsproject/obs-studio" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://obsproject.com/assets/images/new_icon_small-r.png" /> <div style="text-align: center; white-space: nowrap;">OBS</div></a> | <a href="https://github.com/jitsi/jitsi-meet" target="_blank"> <img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/jitsi/jitsi-meet/master/static/pwa/icons/icon192.png" /> <div style="text-align: center; white-space: nowrap;">Jitsi Meet</div></a>|
+
