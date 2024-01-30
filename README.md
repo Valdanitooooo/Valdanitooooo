@@ -1,81 +1,20 @@
-<!-- 
-<style>
-    ul {
-        display: flex;
-        justify-content: center;
-        list-style-type: none;
-        text-align: center;
-        align-items: center;
-        padding: 0;
-        margin: 0;
-    }
+<h2 style="text-align: center;"> Hi there 👋 I'm Valdanito 👨‍💻 </h2>
 
-    li {
-        display: inline-block;
-        margin: 0 10px;
-    }
+<p align="center">
 
-    a {
-        color: inherit;
-        text-decoration: none;
-        text-align: center;
-    }
+| <a href="https://github.com/Valdanitooooo" target="_blank"><div style="text-align: center;">Profile</div></a> | <a href="https://github.com/Valdanitooooo/knowledge-hub/discussions" target="_blank"><div style="text-align: center;">Blog</div></a> | <a href="https://valdanito.cn/gifootball/" target="_blank"><div style="text-align: center;">Gifootball</div></a> | <a href="https://space.bilibili.com/662844951" target="_blank"><div style="text-align: center;">Bilibili</div></a> |
+| ------------- | ------------- | ------------- | ------------- |
 
-    a:hover {
-        text-decoration: none;
-    }
-
-    td {
-        text-align: center;
-        width: 96px;
-        white-space: nowrap;
-    }
-
-    td img {
-        width: 48px;
-        height: 48px;
-    }
-</style> 
--->
-
-<div>
-    <h2 style="text-align: center;"> Hi there 👋 I'm Valdanito 👨‍💻 </h2>
-</div>
-<div style="text-align: center; text-decoration: center;">
-    <ul style="display: flex; justify-content: center; list-style-type: none; text-align: center; align-items: center; padding: 0; margin: 0;">
-        <li style="display: inline-block; margin: 0 10px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center; text-align: center;" href="https://github.com/Valdanitooooo" target="_blank">
-                <span class="icon-name">Profile</span>
-            </a>
-        </li>
-        <li style="display: inline-block; margin: 0 10px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center; text-align: center;" href="https://github.com/Valdanitooooo/knowledge-hub/discussions" target="_blank">
-                <span class="icon-name">Blog</span>
-            </a>
-        </li>
-        <li style="display: inline-block; margin: 0 10px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center; text-align: center;" href="https://valdanito.cn/gifootball/" target="_blank">
-                <span class="icon-name">Gifootball</span>
-            </a>
-        </li>
-        <li style="display: inline-block; margin: 0 10px;">
-            <a style="color: inherit; display: flex; flex-direction: column; align-items: center; text-align: center;" href="https://space.bilibili.com/662844951" target="_blank">
-                <span class="icon-name">Bilibili</span>
-            </a>
-        </li>
-    </ul>
-</div>
+</p>
 
 
-<h2>Stats and Activity</h2>
-<h3 style="text-align: center;">👀</h3>
-<div style="text-align: center;"><img src="https://profile-counter.glitch.me/{Valdanitooooo}/count.svg"
-        alt="Valdanito :: Visitor's Count" /></div>
+<h2>📊 Stats and Activity</h2>
+<p align="center">👀<br><img src="https://profile-counter.glitch.me/{Valdanitooooo}/count.svg" alt="Valdanito :: Visitor's Count" /></p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a>|
 | ------------- | ------------- |
 
-<h2>Tools and technologies that I have worked with and am interested in</h2>
+<h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
 
 <h3>🏷️ GitHub Topics</h3>
 
@@ -99,7 +38,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| <a href="https://www.java.com/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://techstack-generator.vercel.app/java-icon.svg" /><div style="text-align: center; white-space: nowrap;">Java</div></a> | <a href="https://www.javascript.com/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=js" /><div style="text-align: center; white-space: nowrap;">JavaScript</div></a> | <a href="https://www.python.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://techstack-generator.vercel.app/python-icon.svg" /><div style="text-align: center; white-space: nowrap;">Python</div></a> | <a href="https://www.r-project.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=r" /><div style="text-align: center; white-space: nowrap;">R</div></a> | <a href="https://www.lua.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://www.lua.org/images/lua30.gif" /><div style="text-align: center; white-space: nowrap;">Lua</div></a> | <a href="https://github.com/golang/go" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=go" /><div style="text-align: center; white-space: nowrap;">go</div></a> | <a href="https://www.w3.org/TR/rdf-schema/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/cygri/rdf-logos/master/svg/rdf.svg" /><div style="text-align: center; white-space: nowrap;">RDF</div></a> | <a href="https://graphql.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://techstack-generator.vercel.app/graphql-icon.svg" /><div style="text-align: center; white-space: nowrap;">GraphQL</div></a> | <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=bash" /><div style="text-align: center; white-space: nowrap;">Bash</div></a> |
+| <a href="https://www.java.com/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://techstack-generator.vercel.app/java-icon.svg" /><div style="text-align: center; white-space: nowrap;">Java</div></a> | <a href="https://www.javascript.com/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=js" /><div style="text-align: center; white-space: nowrap;">JavaScript</div></a> | <a href="https://www.python.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://techstack-generator.vercel.app/python-icon.svg" /><div style="text-align: center; white-space: nowrap;">Python</div></a> | <a href="https://www.r-project.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=r" /><div style="text-align: center; white-space: nowrap;">R</div></a> | <a href="https://www.lua.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=lua" /><div style="text-align: center; white-space: nowrap;">Lua</div></a> | <a href="https://github.com/golang/go" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=go" /><div style="text-align: center; white-space: nowrap;">go</div></a> | <a href="https://www.w3.org/TR/rdf-schema/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/cygri/rdf-logos/master/svg/rdf.svg" /><div style="text-align: center; white-space: nowrap;">RDF</div></a> | <a href="https://graphql.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://techstack-generator.vercel.app/graphql-icon.svg" /><div style="text-align: center; white-space: nowrap;">GraphQL</div></a> | <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=bash" /><div style="text-align: center; white-space: nowrap;">Bash</div></a> |
 | <a href="https://spring.io/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://spring.io/img/spring.svg" /><div style="text-align: center; white-space: nowrap;">Spring Ecosystem</div></a> | <a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://www.jhipster.tech/images/logo/logo-jhipster.svg" /><div style="text-align: center; white-space: nowrap;">JHipster</div></a> | <a href="https://hibernate.org/" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=hibernate" /><div style="text-align: center; white-space: nowrap;">Hibernate</div></a> | <a href="https://github.com/apache/spark" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/apache_spark_logo.svg" /><div style="text-align: center; white-space: nowrap;">Spark</div></a> | <a href="https://github.com/apache/jena" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/apache/jena-site/main/static/images/jena-logo-icon.svg" /><div style="text-align: center; white-space: nowrap;">Jena</div></a> | <a href="https://github.com/apache/airflow" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" /><div style="text-align: center; white-space: nowrap;">Airflow</div></a> | <a href="https://github.com/nodejs/node" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=nodejs" /><div style="text-align: center; white-space: nowrap;">Node.js</div></a> | <a href="https://github.com/node-red/node-red" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://nodered.org/about/resources/media/node-red-icon.svg" /><div style="text-align: center; white-space: nowrap;">Node-RED</div></a> | <a href="https://github.com/rstudio/shiny" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/shiny-icon.png" /><div style="text-align: center; white-space: nowrap;">Shiny</div></a> |
 | <a href="https://github.com/tiangolo/fastapi" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=fastapi" /><div style="text-align: center; white-space: nowrap;">FastAPI</div></a> | <a href="https://github.com/gradio-app/gradio" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/gradio.svg" /><div style="text-align: center; white-space: nowrap;">Gradio</div></a> | <a href="https://github.com/lm-sys/FastChat" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/vicuna_logo.jpeg" /><div style="text-align: center; white-space: nowrap;">FastChat</div></a> | <a href="https://github.com/langchain-ai/langchain" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/langchain.svg" /><div style="text-align: center; white-space: nowrap;">LangChain</div></a> | <a href="https://github.com/run-llama/llama_index" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/llamaindex.png" /><div style="text-align: center; white-space: nowrap;">LlamaIndex</div></a> | <a href="https://github.com/pytorch/pytorch" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://skillicons.dev/icons?theme=light&i=pytorch" /><div style="text-align: center; white-space: nowrap;">PyTorch</div></a> | <a href="https://github.com/huggingface/transformers" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" /><div style="text-align: center; white-space: nowrap;">Transformers</div></a> | <a href="https://github.com/microsoft/DeepSpeed" target="_blank"><img style="width: 48px; height: 48px; margin: 0 auto;" src="https://raw.githubusercontent.com/Valdanitooooo/Valdanitooooo/main/public/icons/deepspeed.jpg" /><div style="text-align: center; white-space: nowrap;">DeepSpeed</div></a> |  |
 
