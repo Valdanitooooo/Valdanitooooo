@@ -13,6 +13,10 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Valdanitooooo&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdanitooooo&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<h2>🗒️ My last 4 DEV articles</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
 
 **😉 I use [marktext](https://github.com/marktext/marktext) and [github.dev](https://github.dev/) to edit these complex markdown tables**
