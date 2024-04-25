@@ -19,7 +19,7 @@
 - [微调Qwen1.5-7B-Chat模型测试记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/65)
 - [linux 配置DNS](https://github.com/Valdanitooooo/knowledge-hub/discussions/63)
 - [使用FastChat的一些脚本](https://github.com/Valdanitooooo/knowledge-hub/discussions/64)
-- [rsync 数据同步、断点续传工具](https://github.com/Valdanitooooo/knowledge-hub/discussions/62)
+- [简单实用的磁盘使用情况分析工具ncdu](https://github.com/Valdanitooooo/knowledge-hub/discussions/61)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
