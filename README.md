@@ -18,8 +18,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [在手机上运行大模型（使用MLC-LLM）](https://github.com/Valdanitooooo/knowledge-hub/discussions/66)
 - [微调Qwen1.5-7B-Chat模型测试记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/65)
+- [linux 配置DNS](https://github.com/Valdanitooooo/knowledge-hub/discussions/63)
 - [使用FastChat的一些脚本](https://github.com/Valdanitooooo/knowledge-hub/discussions/64)
-- [好用的开源LLMOps工具](https://github.com/Valdanitooooo/knowledge-hub/discussions/56)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
