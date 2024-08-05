@@ -16,10 +16,10 @@
 <h2>🗒️ My last 4 DEV articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [使用Git Hooks优雅地管理服务器上项目多环境的部署](https://github.com/Valdanitooooo/knowledge-hub/discussions/69)
 - [LLaMA-Factory 微调效率记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/68)
 - [aliyun mirror for nvcr.io/nvidia/pytorch:24.02-py3](https://github.com/Valdanitooooo/knowledge-hub/discussions/67)
 - [在手机上运行大模型（使用MLC-LLM）](https://github.com/Valdanitooooo/knowledge-hub/discussions/66)
-- [微调Qwen1.5-7B-Chat模型测试记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/65)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
