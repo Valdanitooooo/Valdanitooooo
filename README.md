@@ -17,6 +17,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [qwen1.5 vs qwen2的一些评测数据对比](https://github.com/Valdanitooooo/knowledge-hub/discussions/70)
+- [使用Git Hooks优雅地管理服务器上项目多环境的部署](https://github.com/Valdanitooooo/knowledge-hub/discussions/69)
 - [LLaMA-Factory 微调效率记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/68)
 <!-- BLOG-POST-LIST:END -->
 
