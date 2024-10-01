@@ -16,10 +16,7 @@
 <h2>🗒️ My last 4 DEV articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [qwen1.5 vs qwen2的一些评测数据对比](https://github.com/Valdanitooooo/knowledge-hub/discussions/70)
-- [使用Git Hooks优雅地管理服务器上项目多环境的部署](https://github.com/Valdanitooooo/knowledge-hub/discussions/69)
 - [LLaMA-Factory 微调效率记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/68)
-- [大模型评测权威榜单](https://github.com/Valdanitooooo/knowledge-hub/discussions/55)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
