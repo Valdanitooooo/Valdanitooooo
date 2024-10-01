@@ -16,6 +16,7 @@
 <h2>🗒️ My last 4 DEV articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [qwen1.5 vs qwen2的一些评测数据对比](https://github.com/Valdanitooooo/knowledge-hub/discussions/70)
 - [LLaMA-Factory 微调效率记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/68)
 <!-- BLOG-POST-LIST:END -->
 
