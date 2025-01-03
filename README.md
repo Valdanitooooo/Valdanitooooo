@@ -17,9 +17,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [为了提升 RAG 效果做的一些尝试](https://github.com/Valdanitooooo/knowledge-hub/discussions/72)
-- [用 Miniforge 替换 Anaconda](https://github.com/Valdanitooooo/knowledge-hub/discussions/71)
-- [qwen1.5 vs qwen2的一些评测数据对比](https://github.com/Valdanitooooo/knowledge-hub/discussions/70)
-- [使用Git Hooks优雅地管理服务器上项目多环境的部署](https://github.com/Valdanitooooo/knowledge-hub/discussions/69)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
