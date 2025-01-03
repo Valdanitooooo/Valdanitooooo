@@ -18,6 +18,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [OpenCTI 中的实体类型说明](https://github.com/Valdanitooooo/knowledge-hub/discussions/73)
 - [为了提升 RAG 效果做的一些尝试](https://github.com/Valdanitooooo/knowledge-hub/discussions/72)
+- [用 Miniforge 替换 Anaconda](https://github.com/Valdanitooooo/knowledge-hub/discussions/71)
 - [博客中Label对应的颜色](https://github.com/Valdanitooooo/knowledge-hub/discussions/18)
 <!-- BLOG-POST-LIST:END -->
 
