@@ -16,6 +16,7 @@
 <h2>🗒️ My last 4 DEV articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCTI 中的实体类型说明](https://github.com/Valdanitooooo/knowledge-hub/discussions/73)
 - [大模型评测权威榜单](https://github.com/Valdanitooooo/knowledge-hub/discussions/55)
 <!-- BLOG-POST-LIST:END -->
 
