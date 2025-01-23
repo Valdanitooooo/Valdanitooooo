@@ -16,10 +16,7 @@
 <h2>🗒️ My last 4 DEV articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCTI 中的实体类型说明](https://github.com/Valdanitooooo/knowledge-hub/discussions/73)
-- [为了提升 RAG 效果做的一些尝试](https://github.com/Valdanitooooo/knowledge-hub/discussions/72)
-- [用 Miniforge 替换 Anaconda](https://github.com/Valdanitooooo/knowledge-hub/discussions/71)
-- [LLaMA-Factory 微调效率记录](https://github.com/Valdanitooooo/knowledge-hub/discussions/68)
+- [大模型评测权威榜单](https://github.com/Valdanitooooo/knowledge-hub/discussions/55)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
