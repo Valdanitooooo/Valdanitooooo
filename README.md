@@ -17,6 +17,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [大模型智能审核方案设计](https://github.com/Valdanitooooo/knowledge-hub/discussions/74)
+- [为了提升 RAG 效果做的一些尝试](https://github.com/Valdanitooooo/knowledge-hub/discussions/72)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
