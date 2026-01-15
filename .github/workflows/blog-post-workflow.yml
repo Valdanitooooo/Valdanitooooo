@@ -16,7 +16,7 @@ jobs:
       - name: Pull in github posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://openrss.org/github.com/Valdanitooooo/knowledge-hub/discussions"
+          feed_list: "https://github.com/Valdanitooooo/knowledge-hub/discussions.atom"
           max_post_count: 4
 # All of this comes from the great work of gautamkrishnar and markcellus
 # https://github.com/gautamkrishnar/blog-post-workflow
