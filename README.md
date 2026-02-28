@@ -11,10 +11,10 @@
 <h2>🗒️ My last 4 DEV articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [大模型测试题目](https://github.com/Valdanitooooo/knowledge-hub/discussions/77)
 - [用一条命令查看所有的容器以及对应的docker compose工作目录](https://github.com/Valdanitooooo/knowledge-hub/discussions/76)
 - [从“能用”到“顺手”：命令行提效的体系化实践](https://github.com/Valdanitooooo/knowledge-hub/discussions/75)
 - [大模型智能审核方案设计](https://github.com/Valdanitooooo/knowledge-hub/discussions/74)
-- [OpenCTI 中的实体类型说明](https://github.com/Valdanitooooo/knowledge-hub/discussions/73)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
